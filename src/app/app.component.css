@@ -7,3 +7,7 @@ nav{
   height: 12vh;
  box-shadow: 0 4px 6px -6px black;
 }
+
+ul li {
+  display: inline;
+}
